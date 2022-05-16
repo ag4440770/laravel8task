@@ -4,7 +4,7 @@
 
 2- run cmd php artisan migrate and php artisan serve . All table create in db
 
-3- manually entry for admin
+3- manually entry for admin into database
 email = admin@gmail.com
 pass = $2y$10$NYLqwFk8wLfrRsYpIkE6XuaZBpMSiXb4vpo0M38st5UVhUX7M0yjW  (admin)
 role = admin
